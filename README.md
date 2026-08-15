@@ -1,6 +1,14 @@
-# Goose Overlay
+# Goose
 
-Cross-platform desktop overlay pet built with Tauri 2, Rust, SvelteKit, TypeScript, and PixiJS. The current app renders a transparent, click-through goose actor with bounded ambient motion and sprite-based idle, walk, inspect, and honk states.
+A small desktop companion that wanders around your screen, with gentle
+hydration and posture reminders in development.
+
+## Status
+
+Goose currently supports a transparent, click-through desktop overlay,
+bounded ambient movement, and sprite-based idle, walk, inspect, honk, and
+hydration animations. Reminder timing, controls, and persistence are still in
+development.
 
 ## Stack
 
